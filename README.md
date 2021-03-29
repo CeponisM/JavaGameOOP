@@ -1,2 +1,2 @@
 # JavaGameOOP
-A game project made with Java with OOP.
+A game project made in Java with OOP.
